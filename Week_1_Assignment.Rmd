@@ -86,9 +86,13 @@ R has a number of data set included with it. One of those datasets is the cars d
 plot(cars)
 ```
 
-## Add a new code block
+# Add a new code block
 Add a new code chunk below this line by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
 
+```{r}
+# .
+
+```
 
 
 ## Save your output.
